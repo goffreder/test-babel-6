@@ -27,6 +27,13 @@ By removing the `// test` comment at the top of `App.js` or changing the devtool
 
 This didn't occur with `babel@5`.
 
+Instructions
+------------
+* Clone the repositiry
+* Run `npm install` to install the dependencies.
+* Run `npm start` to start webpack-dev-server.
+* Go to `http://localhost:8080/` and check the console.
+
 Installed packages
 ------------------
     test-babel
